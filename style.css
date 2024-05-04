@@ -1,0 +1,18 @@
+/* Cascading Style Sheets */
+
+/* 'rules': selector, declaration block (attributes + values) */
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+    width: 200px;
+}
+/* applies to all img tags */
+
+body {
+    text-align: center;
+    font-family: 'Arial';
+    background-color: #e5f0ff;
+}
