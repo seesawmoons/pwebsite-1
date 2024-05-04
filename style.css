@@ -6,13 +6,20 @@ html {
   width: 100%;
 }
 
+h1 {
+    text-align: center;
+    line-height: 60%;
+}
+
 img {
     width: 200px;
 }
 /* applies to all img tags */
 
 body {
-    text-align: center;
-    font-family: 'Arial';
+    font-family: 'Reddit Sans';
     background-color: #e5f0ff;
+    color: #1a1a1f;
+    margin: 0px 40px 0px 20px;
+    /* top right bottom left */
 }
