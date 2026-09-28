@@ -62,7 +62,7 @@ body {
 .zoomimg {
   width: 300px;
   height: auto;
-  overflow: clip;
+  overflow: visible;
 }
 
 .zoomimg img {
@@ -73,5 +73,5 @@ body {
 }
 
 .zoomimg img:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
